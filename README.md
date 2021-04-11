@@ -3,7 +3,9 @@
 1) Inspiration <br> 
 I've always liked looking at geometric patterns and love to explore them in my own personal artwork. I also like to take inspiration from mandalas and other geometry-based patterns a lot of the time, so for this assignment, I wanted to see if there was a way I could somehow animate something like a mandala. One of the main sources of inspiration was this huge painting my mum has up in our home. I spend a lot of the time staring at it or walking by it and I thought it would be cool to see if I could maybe use it as a reference to create a moving, geometric pattern. Below is a picture of the painting. 
 
-![mandala_painting](bin/data/mandala_1.JPG)
+<p align="center">
+  <img src="bin/data/mandala_1.JPG" width="350" title="mandala painting">
+</p>
 
 2) Sources & Process <br>
 I wanted to just try out a new skill on openframeworks. Since I am still not super familiar with it and really am a beginner in all of this, I thought this sketch would be a fun way I could figure out some new stuff and possibily use it in my next assignment or even my final product. 
