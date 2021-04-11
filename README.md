@@ -21,7 +21,7 @@ I definitely feel like there's a lot of things I can work on here. If I were to 
 *4) My Result:* <br>
 https://youtu.be/98As9VWe5yk
 
-#Gallery
+# Gallery
 
 <p align="center">
   <img src="bin/data/cyclical_1.png" width="350" title="cyclical">
