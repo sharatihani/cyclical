@@ -1,6 +1,6 @@
 # Cyclical Animation - Mandala (kinda)
 
-1) Inspiration <br> 
+*1) Inspiration* <br> 
 I've always liked looking at geometric patterns and love to explore them in my own personal artwork. I also like to take inspiration from mandalas and other geometry-based patterns a lot of the time, so for this assignment, I wanted to see if there was a way I could somehow animate something like a mandala. One of the main sources of inspiration was this huge painting my mum has up in our home. I spend a lot of the time staring at it or walking by it and I thought it would be cool to see if I could maybe use it as a reference to create a moving, geometric pattern. Below is a picture of the painting. 
 
 <p align="center">
