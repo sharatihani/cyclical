@@ -20,3 +20,9 @@ I definitely feel like there's a lot of things I can work on here. If I were to 
 
 *4) My Result:* <br>
 https://youtu.be/98As9VWe5yk
+
+<p align="center">
+  <img src="bin/data/cyclical_1.png" width="350" title="cyclical">
+  <img src="bin/data/cyclical_2.png" width="350" title="cyclical">
+  <img src="bin/data/cyclical_3.png" width="350" title="cyclical">
+</p>
